@@ -1,14 +1,14 @@
-"""
+
 #House Price Prediction System
 
 Author:
-Soham Naik
+-Soham Naik
 
--Date:
+Date:
 - 2024-02-18
 
 Version:
-Initial version
+-Initial version
 
 
 This project implements a web-based system for predicting house prices using Django, a high-level Python web framework. The system utilizes various Python libraries including NumPy, Pandas, and Scikit-learn for data manipulation, analysis, and machine learning model development.
@@ -40,4 +40,3 @@ Usage:
 
 5. Access the web application in a browser at http://localhost:8000/
 
-"""
